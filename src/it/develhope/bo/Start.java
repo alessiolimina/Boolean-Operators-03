@@ -11,7 +11,7 @@ public class Start {
 
         int x = 3;
         int y = 2;
-        System.out.println("Considering x=3, y=2: !((x * y) <= 6) && (x - y != 1): " + (!((x * y) <= 6) && (x - y != 1)));
+        System.out.println("!((x * y) <= 6) && (x - y != 1): " + (!((x * y) <= 6) && (x - y != 1)));
 
         System.out.println("----------------------------------------");
 
